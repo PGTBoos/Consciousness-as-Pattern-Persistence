@@ -1,6 +1,6 @@
 # Consciousness as Pattern Persistence
 
-## A Systems-Level Theory of Awareness with a Testable Engineering Implication
+### A Systems-Level Theory of Awareness with a Testable Engineering Implication
 
 **Peter Boos** — March 2026
 
